@@ -1,0 +1,737 @@
+[
+  {
+    "viewport": "320x568",
+    "name": "320_iphone5_portrait",
+    "passed": true,
+    "winWidth": 320,
+    "scrollWidth": 320,
+    "hasHorizontalOverflow": false,
+    "overflowCount": 40,
+    "sampleOverflow": [
+      {
+        "tag": "DIV",
+        "class": "mobile-drawer-content",
+        "id": "",
+        "right": 620,
+        "excess": 300
+      },
+      {
+        "tag": "DIV",
+        "class": "mobile-drawer-header",
+        "id": "",
+        "right": 602,
+        "excess": 282
+      },
+      {
+        "tag": "A",
+        "class": "brand-link",
+        "id": "",
+        "right": 460,
+        "excess": 140
+      }
+    ],
+    "inputFontSize": "16px",
+    "toggleDisplay": "flex",
+    "screenshot": "C:\\Users\\DUES-SOFT\\Front-end\\SSeewiz Aesthetic Decor\\screenshots_after\\320_iphone5_portrait.png"
+  },
+  {
+    "viewport": "360x640",
+    "name": "360_android_portrait",
+    "passed": true,
+    "winWidth": 360,
+    "scrollWidth": 360,
+    "hasHorizontalOverflow": false,
+    "overflowCount": 39,
+    "sampleOverflow": [
+      {
+        "tag": "DIV",
+        "class": "mobile-drawer-content",
+        "id": "",
+        "right": 660,
+        "excess": 300
+      },
+      {
+        "tag": "DIV",
+        "class": "mobile-drawer-header",
+        "id": "",
+        "right": 642,
+        "excess": 282
+      },
+      {
+        "tag": "A",
+        "class": "brand-link",
+        "id": "",
+        "right": 500,
+        "excess": 140
+      }
+    ],
+    "inputFontSize": "16px",
+    "toggleDisplay": "flex",
+    "screenshot": "C:\\Users\\DUES-SOFT\\Front-end\\SSeewiz Aesthetic Decor\\screenshots_after\\360_android_portrait.png"
+  },
+  {
+    "viewport": "375x812",
+    "name": "375_iphoneX_portrait",
+    "passed": true,
+    "winWidth": 375,
+    "scrollWidth": 375,
+    "hasHorizontalOverflow": false,
+    "overflowCount": 38,
+    "sampleOverflow": [
+      {
+        "tag": "DIV",
+        "class": "mobile-drawer-content",
+        "id": "",
+        "right": 735,
+        "excess": 360
+      },
+      {
+        "tag": "DIV",
+        "class": "mobile-drawer-header",
+        "id": "",
+        "right": 711,
+        "excess": 336
+      },
+      {
+        "tag": "A",
+        "class": "brand-link",
+        "id": "",
+        "right": 543,
+        "excess": 168
+      }
+    ],
+    "inputFontSize": "16px",
+    "toggleDisplay": "flex",
+    "screenshot": "C:\\Users\\DUES-SOFT\\Front-end\\SSeewiz Aesthetic Decor\\screenshots_after\\375_iphoneX_portrait.png"
+  },
+  {
+    "viewport": "390x844",
+    "name": "390_iphone14_portrait",
+    "passed": true,
+    "winWidth": 390,
+    "scrollWidth": 390,
+    "hasHorizontalOverflow": false,
+    "overflowCount": 38,
+    "sampleOverflow": [
+      {
+        "tag": "DIV",
+        "class": "mobile-drawer-content",
+        "id": "",
+        "right": 750,
+        "excess": 360
+      },
+      {
+        "tag": "DIV",
+        "class": "mobile-drawer-header",
+        "id": "",
+        "right": 726,
+        "excess": 336
+      },
+      {
+        "tag": "A",
+        "class": "brand-link",
+        "id": "",
+        "right": 558,
+        "excess": 168
+      }
+    ],
+    "inputFontSize": "16px",
+    "toggleDisplay": "flex",
+    "screenshot": "C:\\Users\\DUES-SOFT\\Front-end\\SSeewiz Aesthetic Decor\\screenshots_after\\390_iphone14_portrait.png"
+  },
+  {
+    "viewport": "414x896",
+    "name": "414_iphonePlus_portrait",
+    "passed": true,
+    "winWidth": 414,
+    "scrollWidth": 414,
+    "hasHorizontalOverflow": false,
+    "overflowCount": 38,
+    "sampleOverflow": [
+      {
+        "tag": "DIV",
+        "class": "mobile-drawer-content",
+        "id": "",
+        "right": 774,
+        "excess": 360
+      },
+      {
+        "tag": "DIV",
+        "class": "mobile-drawer-header",
+        "id": "",
+        "right": 750,
+        "excess": 336
+      },
+      {
+        "tag": "A",
+        "class": "brand-link",
+        "id": "",
+        "right": 582,
+        "excess": 168
+      }
+    ],
+    "inputFontSize": "16px",
+    "toggleDisplay": "flex",
+    "screenshot": "C:\\Users\\DUES-SOFT\\Front-end\\SSeewiz Aesthetic Decor\\screenshots_after\\414_iphonePlus_portrait.png"
+  },
+  {
+    "viewport": "480x800",
+    "name": "480_mobile_wide",
+    "passed": true,
+    "winWidth": 480,
+    "scrollWidth": 480,
+    "hasHorizontalOverflow": false,
+    "overflowCount": 38,
+    "sampleOverflow": [
+      {
+        "tag": "DIV",
+        "class": "mobile-drawer-content",
+        "id": "",
+        "right": 840,
+        "excess": 360
+      },
+      {
+        "tag": "DIV",
+        "class": "mobile-drawer-header",
+        "id": "",
+        "right": 816,
+        "excess": 336
+      },
+      {
+        "tag": "A",
+        "class": "brand-link",
+        "id": "",
+        "right": 648,
+        "excess": 168
+      }
+    ],
+    "inputFontSize": "16px",
+    "toggleDisplay": "flex",
+    "screenshot": "C:\\Users\\DUES-SOFT\\Front-end\\SSeewiz Aesthetic Decor\\screenshots_after\\480_mobile_wide.png"
+  },
+  {
+    "viewport": "568x320",
+    "name": "568x320_mobile_landscape",
+    "passed": true,
+    "winWidth": 568,
+    "scrollWidth": 568,
+    "hasHorizontalOverflow": false,
+    "overflowCount": 35,
+    "sampleOverflow": [
+      {
+        "tag": "DIV",
+        "class": "mobile-drawer-content",
+        "id": "",
+        "right": 888,
+        "excess": 320
+      },
+      {
+        "tag": "DIV",
+        "class": "mobile-drawer-header",
+        "id": "",
+        "right": 864,
+        "excess": 296
+      },
+      {
+        "tag": "A",
+        "class": "brand-link",
+        "id": "",
+        "right": 774,
+        "excess": 206
+      }
+    ],
+    "inputFontSize": "16px",
+    "toggleDisplay": "flex",
+    "screenshot": "C:\\Users\\DUES-SOFT\\Front-end\\SSeewiz Aesthetic Decor\\screenshots_after\\568x320_mobile_landscape.png"
+  },
+  {
+    "viewport": "667x375",
+    "name": "667x375_mobile_landscape",
+    "passed": true,
+    "winWidth": 667,
+    "scrollWidth": 667,
+    "hasHorizontalOverflow": false,
+    "overflowCount": 35,
+    "sampleOverflow": [
+      {
+        "tag": "DIV",
+        "class": "mobile-drawer-content",
+        "id": "",
+        "right": 987,
+        "excess": 320
+      },
+      {
+        "tag": "DIV",
+        "class": "mobile-drawer-header",
+        "id": "",
+        "right": 963,
+        "excess": 296
+      },
+      {
+        "tag": "A",
+        "class": "brand-link",
+        "id": "",
+        "right": 873,
+        "excess": 206
+      }
+    ],
+    "inputFontSize": "16px",
+    "toggleDisplay": "flex",
+    "screenshot": "C:\\Users\\DUES-SOFT\\Front-end\\SSeewiz Aesthetic Decor\\screenshots_after\\667x375_mobile_landscape.png"
+  },
+  {
+    "viewport": "600x960",
+    "name": "600_small_tablet",
+    "passed": true,
+    "winWidth": 600,
+    "scrollWidth": 600,
+    "hasHorizontalOverflow": false,
+    "overflowCount": 36,
+    "sampleOverflow": [
+      {
+        "tag": "DIV",
+        "class": "mobile-drawer-content",
+        "id": "",
+        "right": 960,
+        "excess": 360
+      },
+      {
+        "tag": "DIV",
+        "class": "mobile-drawer-header",
+        "id": "",
+        "right": 936,
+        "excess": 336
+      },
+      {
+        "tag": "A",
+        "class": "brand-link",
+        "id": "",
+        "right": 806,
+        "excess": 206
+      }
+    ],
+    "inputFontSize": "16px",
+    "toggleDisplay": "flex",
+    "screenshot": "C:\\Users\\DUES-SOFT\\Front-end\\SSeewiz Aesthetic Decor\\screenshots_after\\600_small_tablet.png"
+  },
+  {
+    "viewport": "768x1024",
+    "name": "768_tablet_portrait",
+    "passed": true,
+    "winWidth": 768,
+    "scrollWidth": 768,
+    "hasHorizontalOverflow": false,
+    "overflowCount": 25,
+    "sampleOverflow": [
+      {
+        "tag": "DIV",
+        "class": "mobile-drawer-content",
+        "id": "",
+        "right": 1128,
+        "excess": 360
+      },
+      {
+        "tag": "DIV",
+        "class": "mobile-drawer-header",
+        "id": "",
+        "right": 1104,
+        "excess": 336
+      },
+      {
+        "tag": "A",
+        "class": "brand-link",
+        "id": "",
+        "right": 974,
+        "excess": 206
+      }
+    ],
+    "inputFontSize": "16px",
+    "toggleDisplay": "flex",
+    "screenshot": "C:\\Users\\DUES-SOFT\\Front-end\\SSeewiz Aesthetic Decor\\screenshots_after\\768_tablet_portrait.png"
+  },
+  {
+    "viewport": "820x1180",
+    "name": "820_ipad_air",
+    "passed": true,
+    "winWidth": 820,
+    "scrollWidth": 820,
+    "hasHorizontalOverflow": false,
+    "overflowCount": 21,
+    "sampleOverflow": [
+      {
+        "tag": "DIV",
+        "class": "mobile-drawer-content",
+        "id": "",
+        "right": 1180,
+        "excess": 360
+      },
+      {
+        "tag": "DIV",
+        "class": "mobile-drawer-header",
+        "id": "",
+        "right": 1156,
+        "excess": 336
+      },
+      {
+        "tag": "A",
+        "class": "brand-link",
+        "id": "",
+        "right": 1026,
+        "excess": 206
+      }
+    ],
+    "inputFontSize": "14.4px",
+    "toggleDisplay": "flex",
+    "screenshot": "C:\\Users\\DUES-SOFT\\Front-end\\SSeewiz Aesthetic Decor\\screenshots_after\\820_ipad_air.png"
+  },
+  {
+    "viewport": "1024x768",
+    "name": "1024_tablet_landscape",
+    "passed": true,
+    "winWidth": 1024,
+    "scrollWidth": 1024,
+    "hasHorizontalOverflow": false,
+    "overflowCount": 21,
+    "sampleOverflow": [
+      {
+        "tag": "DIV",
+        "class": "mobile-drawer-content",
+        "id": "",
+        "right": 1384,
+        "excess": 360
+      },
+      {
+        "tag": "DIV",
+        "class": "mobile-drawer-header",
+        "id": "",
+        "right": 1360,
+        "excess": 336
+      },
+      {
+        "tag": "A",
+        "class": "brand-link",
+        "id": "",
+        "right": 1230,
+        "excess": 206
+      }
+    ],
+    "inputFontSize": "14.4px",
+    "toggleDisplay": "none",
+    "screenshot": "C:\\Users\\DUES-SOFT\\Front-end\\SSeewiz Aesthetic Decor\\screenshots_after\\1024_tablet_landscape.png"
+  },
+  {
+    "viewport": "1280x800",
+    "name": "1280_desktop",
+    "passed": true,
+    "winWidth": 1280,
+    "scrollWidth": 1280,
+    "hasHorizontalOverflow": false,
+    "overflowCount": 21,
+    "sampleOverflow": [
+      {
+        "tag": "DIV",
+        "class": "mobile-drawer-content",
+        "id": "",
+        "right": 1640,
+        "excess": 360
+      },
+      {
+        "tag": "DIV",
+        "class": "mobile-drawer-header",
+        "id": "",
+        "right": 1616,
+        "excess": 336
+      },
+      {
+        "tag": "A",
+        "class": "brand-link",
+        "id": "",
+        "right": 1486,
+        "excess": 206
+      }
+    ],
+    "inputFontSize": "14.4px",
+    "toggleDisplay": "none",
+    "screenshot": "C:\\Users\\DUES-SOFT\\Front-end\\SSeewiz Aesthetic Decor\\screenshots_after\\1280_desktop.png"
+  },
+  {
+    "viewport": "1366x768",
+    "name": "1366_desktop",
+    "passed": true,
+    "winWidth": 1366,
+    "scrollWidth": 1366,
+    "hasHorizontalOverflow": false,
+    "overflowCount": 21,
+    "sampleOverflow": [
+      {
+        "tag": "DIV",
+        "class": "mobile-drawer-content",
+        "id": "",
+        "right": 1726,
+        "excess": 360
+      },
+      {
+        "tag": "DIV",
+        "class": "mobile-drawer-header",
+        "id": "",
+        "right": 1702,
+        "excess": 336
+      },
+      {
+        "tag": "A",
+        "class": "brand-link",
+        "id": "",
+        "right": 1572,
+        "excess": 206
+      }
+    ],
+    "inputFontSize": "14.4px",
+    "toggleDisplay": "none",
+    "screenshot": "C:\\Users\\DUES-SOFT\\Front-end\\SSeewiz Aesthetic Decor\\screenshots_after\\1366_desktop.png"
+  },
+  {
+    "viewport": "1440x900",
+    "name": "1440_desktop",
+    "passed": true,
+    "winWidth": 1440,
+    "scrollWidth": 1440,
+    "hasHorizontalOverflow": false,
+    "overflowCount": 21,
+    "sampleOverflow": [
+      {
+        "tag": "DIV",
+        "class": "mobile-drawer-content",
+        "id": "",
+        "right": 1800,
+        "excess": 360
+      },
+      {
+        "tag": "DIV",
+        "class": "mobile-drawer-header",
+        "id": "",
+        "right": 1776,
+        "excess": 336
+      },
+      {
+        "tag": "A",
+        "class": "brand-link",
+        "id": "",
+        "right": 1646,
+        "excess": 206
+      }
+    ],
+    "inputFontSize": "14.4px",
+    "toggleDisplay": "none",
+    "screenshot": "C:\\Users\\DUES-SOFT\\Front-end\\SSeewiz Aesthetic Decor\\screenshots_after\\1440_desktop.png"
+  },
+  {
+    "viewport": "1536x864",
+    "name": "1536_desktop",
+    "passed": true,
+    "winWidth": 1536,
+    "scrollWidth": 1536,
+    "hasHorizontalOverflow": false,
+    "overflowCount": 21,
+    "sampleOverflow": [
+      {
+        "tag": "DIV",
+        "class": "mobile-drawer-content",
+        "id": "",
+        "right": 1896,
+        "excess": 360
+      },
+      {
+        "tag": "DIV",
+        "class": "mobile-drawer-header",
+        "id": "",
+        "right": 1872,
+        "excess": 336
+      },
+      {
+        "tag": "A",
+        "class": "brand-link",
+        "id": "",
+        "right": 1742,
+        "excess": 206
+      }
+    ],
+    "inputFontSize": "14.4px",
+    "toggleDisplay": "none",
+    "screenshot": "C:\\Users\\DUES-SOFT\\Front-end\\SSeewiz Aesthetic Decor\\screenshots_after\\1536_desktop.png"
+  },
+  {
+    "viewport": "1920x1080",
+    "name": "1920_fhd_desktop",
+    "passed": true,
+    "winWidth": 1920,
+    "scrollWidth": 1920,
+    "hasHorizontalOverflow": false,
+    "overflowCount": 21,
+    "sampleOverflow": [
+      {
+        "tag": "DIV",
+        "class": "mobile-drawer-content",
+        "id": "",
+        "right": 2280,
+        "excess": 360
+      },
+      {
+        "tag": "DIV",
+        "class": "mobile-drawer-header",
+        "id": "",
+        "right": 2256,
+        "excess": 336
+      },
+      {
+        "tag": "A",
+        "class": "brand-link",
+        "id": "",
+        "right": 2126,
+        "excess": 206
+      }
+    ],
+    "inputFontSize": "14.4px",
+    "toggleDisplay": "none",
+    "screenshot": "C:\\Users\\DUES-SOFT\\Front-end\\SSeewiz Aesthetic Decor\\screenshots_after\\1920_fhd_desktop.png"
+  },
+  {
+    "viewport": "2560x1440",
+    "name": "2560_qhd_ultrawide",
+    "passed": true,
+    "winWidth": 2560,
+    "scrollWidth": 2560,
+    "hasHorizontalOverflow": false,
+    "overflowCount": 21,
+    "sampleOverflow": [
+      {
+        "tag": "DIV",
+        "class": "mobile-drawer-content",
+        "id": "",
+        "right": 2920,
+        "excess": 360
+      },
+      {
+        "tag": "DIV",
+        "class": "mobile-drawer-header",
+        "id": "",
+        "right": 2896,
+        "excess": 336
+      },
+      {
+        "tag": "A",
+        "class": "brand-link",
+        "id": "",
+        "right": 2766,
+        "excess": 206
+      }
+    ],
+    "inputFontSize": "14.4px",
+    "toggleDisplay": "none",
+    "screenshot": "C:\\Users\\DUES-SOFT\\Front-end\\SSeewiz Aesthetic Decor\\screenshots_after\\2560_qhd_ultrawide.png"
+  },
+  {
+    "viewport": "3440x1440",
+    "name": "3440_ultrawide",
+    "passed": true,
+    "winWidth": 3440,
+    "scrollWidth": 3440,
+    "hasHorizontalOverflow": false,
+    "overflowCount": 21,
+    "sampleOverflow": [
+      {
+        "tag": "DIV",
+        "class": "mobile-drawer-content",
+        "id": "",
+        "right": 3800,
+        "excess": 360
+      },
+      {
+        "tag": "DIV",
+        "class": "mobile-drawer-header",
+        "id": "",
+        "right": 3776,
+        "excess": 336
+      },
+      {
+        "tag": "A",
+        "class": "brand-link",
+        "id": "",
+        "right": 3646,
+        "excess": 206
+      }
+    ],
+    "inputFontSize": "14.4px",
+    "toggleDisplay": "none",
+    "screenshot": "C:\\Users\\DUES-SOFT\\Front-end\\SSeewiz Aesthetic Decor\\screenshots_after\\3440_ultrawide.png"
+  },
+  {
+    "viewport": "3840x2160",
+    "name": "3840_4k",
+    "passed": true,
+    "winWidth": 3840,
+    "scrollWidth": 3840,
+    "hasHorizontalOverflow": false,
+    "overflowCount": 21,
+    "sampleOverflow": [
+      {
+        "tag": "DIV",
+        "class": "mobile-drawer-content",
+        "id": "",
+        "right": 4200,
+        "excess": 360
+      },
+      {
+        "tag": "DIV",
+        "class": "mobile-drawer-header",
+        "id": "",
+        "right": 4176,
+        "excess": 336
+      },
+      {
+        "tag": "A",
+        "class": "brand-link",
+        "id": "",
+        "right": 4046,
+        "excess": 206
+      }
+    ],
+    "inputFontSize": "14.4px",
+    "toggleDisplay": "none",
+    "screenshot": "C:\\Users\\DUES-SOFT\\Front-end\\SSeewiz Aesthetic Decor\\screenshots_after\\3840_4k.png"
+  },
+  {
+    "viewport": "5120x1440",
+    "name": "5120_super_ultrawide",
+    "passed": true,
+    "winWidth": 5120,
+    "scrollWidth": 5120,
+    "hasHorizontalOverflow": false,
+    "overflowCount": 21,
+    "sampleOverflow": [
+      {
+        "tag": "DIV",
+        "class": "mobile-drawer-content",
+        "id": "",
+        "right": 5480,
+        "excess": 360
+      },
+      {
+        "tag": "DIV",
+        "class": "mobile-drawer-header",
+        "id": "",
+        "right": 5456,
+        "excess": 336
+      },
+      {
+        "tag": "A",
+        "class": "brand-link",
+        "id": "",
+        "right": 5326,
+        "excess": 206
+      }
+    ],
+    "inputFontSize": "14.4px",
+    "toggleDisplay": "none",
+    "screenshot": "C:\\Users\\DUES-SOFT\\Front-end\\SSeewiz Aesthetic Decor\\screenshots_after\\5120_super_ultrawide.png"
+  }
+]
